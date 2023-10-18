@@ -1,0 +1,16 @@
+Life Life:Die
+Contact Contact:Broadcast
+Movement Movement:Transport-Person
+Transaction Transaction:Transfer-Money
+Conflict Conflict:Attack
+Contact Contact:Correspondence
+Transaction Transaction:Transfer-Ownership
+Personnel Personnel:End-Position
+Contact Contact:Meet
+Contact Contact:Contact
+event_type Life
+event_type Movement
+event_type Transaction
+event_type Conflict
+event_type Contact
+event_type Personnel
